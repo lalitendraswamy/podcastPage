@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.background_img {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/podcasts-bg.png");
+    background-size: cover;
+    height: 30vh;
+    width: 100vw;
+    padding: 20px;
+}
+
+.podcast_h1 {
+    font-size: 30px;
+    font-family: Roboto;
+    color: #ffffff;
+}
+
+.home_img {
+    height: 110px;
+    width: 150px;
+}
+
+.home_h1 {
+    font-size: 15px;
+    font-family: Roboto;
+    color: #151765;
+    margin: 8px;
+    font-weight: bold;
+}
+
+.home_para {
+    font-size: 10px;
+    font-family: Roboto;
+    color: #5a7184;
+    margin: 5px;
+}
+
+.home_each_card {
+    padding: 10px;
+    text-align: center;
+    margin: 10px;
+}
+
+.each_page_h1 {
+    font-size: 15px;
+    font-family: Roboto;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.each_page_para {
+    font-size: 10px;
+    font-family: Roboto;
+    color: #ffffff;
+}
+
+.each_page_selected_card {
+    background-color: #151765;
+    padding: 15px;
+}
+
+.button {
+    background-color: #151765;
+    color: white;
+    padding: 2px;
+    width: 80px;
+    border-radius: 15px;
+}
